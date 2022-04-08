@@ -1,2 +1,5 @@
 # akInfos
-Infos Illegal
+Simple menu avec event notification
+
+# Dépendances
+- MenuV
